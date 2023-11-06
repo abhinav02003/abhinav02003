@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav anilkumar</h1>
 <h3 align="center">A passionate frontend developer from India😇</h3>
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif"> 
- 
-
-<img align="right" alt="coding" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav02003&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav02003" /> </p>
 
