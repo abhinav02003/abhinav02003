@@ -17,6 +17,7 @@
 
 -•°•°•°•°**I DON'T TALK MUCH 🙃**°•°•°•°•_
 
+<img align="right" alt="coding" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
