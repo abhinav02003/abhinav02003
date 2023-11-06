@@ -12,8 +12,15 @@
 
 - 💬 Ask me about **HTML & JAVA**
 
-- ⚡ Fun fact **I DON'T TALK MUCH 🙃**
-<img align="right" alt="coding" src="https://www.google.com/search?q=programmer+gif&client=ms-android-transsion&sca_esv=579734912&tbm=isch&prmd=ivsn&sxsrf=AM9HkKm41frDNbJ7ThngWANZUEKynIjcdA:1699258077466&source=lnms&sa=X&ved=2ahUKEwjp19rQ9a6CAxVzSmwGHTHkAMkQ_AUoAXoECAQQAQ&biw=360&bih=708&dpr=3#imgrc=Ss2Azb2di0j91M">
+-•°•°•°•°**I DON'T TALK MUCH 🙃**°•°•°•°•_
+
+<br>
+<br>
+
+<img align="right" alt="coding" src=" https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif">
+
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
