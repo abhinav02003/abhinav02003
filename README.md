@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Codeings**
 
-- 💬 Ask me about **HTML & JAVA**
+- 💬 Ask me about **HTML & PHP**
 
 -•°•°•°•°**I DON'T TALK MUCH 🙃**°•°•°•°•_
 
