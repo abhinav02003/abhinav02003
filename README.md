@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **HTML UPDATIONS**
 
-- 🌱 I’m currently learning **JS, HTML, PYTHON, SQL etc.**
+- 🌱 I’m currently learning **JS, HTML, PYTHON, REACT , TAIL WIND etc.**
 
-- 👯 I’m looking to collaborate on **Codeings**
+- 👯 I’m looking to collaborate on **INTEUSTING PROJECTS**
 
-- 💬 Ask me about **HTML & PHP**
+- 💬 Ask me about **HTML,CSS,SQL,NONSQL,C++**
 
 -•°•°•°•°**I DON'T TALK MUCH 🙃**°•°•°•°•_
 
