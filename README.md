@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JS, HTML, PYTHON, REACT , TAIL WIND etc.**
 
-- 👯 I’m looking to collaborate on **INTEUSTING PROJECTS**
+- 👯 I’m looking to collaborate on **INTERESTING PROJECTS**
 
 - 💬 Ask me about **HTML,CSS,SQL,NONSQL,C++**
 
